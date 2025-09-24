@@ -1,4 +1,3 @@
-GitHub README Intro (to match your post)
 📘 30 SQL Practice Questions – From Basics to Advanced
 
 This repository contains 30 SQL practice questions that I solved while learning SQL with a real-time relational dataset (Employees, Branches, Clients, Suppliers connected with foreign keys).
