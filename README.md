@@ -1,4 +1,4 @@
-#📘 30 SQL Practice Questions – From Basics to Advanced
+#📘 30 SQL Practice Questions – From Basics to Advanced (practice_questions.sql)
 
 This repository contains 30 SQL practice questions that I solved while learning SQL with a real-time relational dataset (Employees, Branches, Clients, Suppliers connected with foreign keys).
 
