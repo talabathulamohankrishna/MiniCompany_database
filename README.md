@@ -1,2 +1,28 @@
-# MiniCompany_database
-This repository contains a mini-project focused on the complete lifecycle of a company database using SQL. The project demonstrates a solid understanding of database design, implementation, and practical operations, including data manipulation and querying.
+GitHub README Intro (to match your post)
+📘 30 SQL Practice Questions – From Basics to Advanced
+
+This repository contains 30 SQL practice questions that I solved while learning SQL with a real-time relational dataset (Employees, Branches, Clients, Suppliers connected with foreign keys).
+
+These questions cover everything from basics to advanced concepts, helping you practice SQL in a real-world scenario instead of just isolated queries.
+
+✅ Topics Covered
+
+DDL → Creating & modifying tables, constraints
+
+DML → Insert, update & delete operations
+
+DQL → Select queries, joins, subqueries
+
+Functions & Aggregations → COUNT, AVG, GROUP BY, HAVING
+
+DCL & TCL → Permissions, commits & rollbacks
+
+📌 Why this repo?
+
+Hands-on practice with a relational dataset
+
+Real-world style queries (joins, constraints, transactions)
+
+Step-by-step learning → Beginner → Advanced
+
+🚀 Whether you’re preparing for interviews or strengthening your SQL skills, these 30 questions will give you a deeper understanding of databases and data relationships.
